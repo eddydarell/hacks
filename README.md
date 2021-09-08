@@ -1,3 +1,3 @@
 # hacks
 
-Contains general tips and trick
+General tips and tricks

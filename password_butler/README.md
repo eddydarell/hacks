@@ -1,12 +1,14 @@
 ## Password Butler
 
-Usage
+Very simple python3 script that helps you copy passwords to the clipboard from a text file containing a list of passwords in a key=value pairs.
+
+#### Usage
 
 ```bash
 python3 butler.py <password id> <?passwords file path>
 ```
 
-Example
+#### Example
 
 ```bash
 python3 butler.py facebook # Gives theFacebookPa$$w0rd
@@ -29,7 +31,7 @@ function butler () {
 }
 ```
 
-Dependencies
+#### Dependencies
 
 - pyperclip
 - termcolor
